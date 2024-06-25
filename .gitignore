@@ -1,4 +1,4 @@
 .idea
 node_modules
-./repairCostData.csv
-./replacementCostData.csv
+/repairCostData.csv
+/replacementCostData.csv
