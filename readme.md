@@ -2,7 +2,7 @@
 
 *Assuming you have local AWS config setup and a DynamoDB table is created in your AWS account.*
 
-Go through the TODOs in importData.csv, update as necessary, and you are all set to go!
+Go through the TODOs in importData.ts, update as necessary, and you are all set to go!
 
 ### Steps:
 
